@@ -28,11 +28,11 @@ export function Section06() {
                             ask={"Bagaimana cara bergabung menjadi wali santri / orang tua asuh?"}
                             question={<>
                                 Sangat mudah! <br />
-                                ✅ Klik tombol "Gabung Sekarang" di bawah. <br />
-                                ✅ Isi data diri singkat. <br />
-                                ✅ Transfer sesuai nominal yang kamu pilih. <br />
-                                ✅ Lakukan konfirmasi pembayaran. <br />
-                                Kami akan mengirimkan update berkala tentang santri yang kamu bantu.
+                                ✅ Klik tombol BERGABUNG di atas. <br />
+                                ✅ Isi data yang dibutuhkan. <br />
+                                ✅ Transfer sesuai nominal yang sahabat pilih. <br />
+                                ✅ Kirim dan tunggu balasan admin<br />
+                                Kami akan mengirimkan update berkala tentang santri yang sahabat bantu.
                             </>}
                         />
                     </div>
