@@ -6,7 +6,7 @@ import { Section04 } from "../section/section04"
 import { Section05 } from "../section/section05"
 import { Section06 } from "../section/section06"
 import { Section07 } from "../section/section07"
-import { Footer } from "../components/footer"
+import { Galeri } from "../section/galeri";
 
 export function Home() {
     const section03Ref = useRef(null);
@@ -26,6 +26,7 @@ export function Home() {
             <Section03 ref={section03Ref} />
             <Section04 />
             <Section05 />
+            <Galeri />
             <Section07 />
             <Section06 />
 

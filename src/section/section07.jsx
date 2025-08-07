@@ -3,7 +3,7 @@ import { Button } from "../components/button"
 
 export function Section07() {
     return (
-        <div className="bg-pink-100 pt-8 pb-16">
+        <div className="bg-white pt-8 pb-16">
             <div className="mx-auto max-w-screen-xl px-4 xl:p-16">
                 <div className="text-3xl md:text-5xl font-extrabold text-center py-8">
                     Karena Kebaikan Harus Disegerakan
