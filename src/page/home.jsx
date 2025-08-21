@@ -7,6 +7,8 @@ import { Section05 } from "../section/section05"
 import { Section06 } from "../section/section06"
 import { Section07 } from "../section/section07"
 import { Galeri } from "../section/galeri";
+import { Testimoni } from "../section/testimoni";
+
 
 export function Home() {
     const section03Ref = useRef(null);
@@ -25,6 +27,7 @@ export function Home() {
             </div>
             <Section03 ref={section03Ref} />
             <Section04 />
+            <Testimoni />
             <Section05 />
             <Galeri />
             <Section07 />

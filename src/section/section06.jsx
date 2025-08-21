@@ -3,7 +3,7 @@ import { Faq } from "../components/fax"
 export function Section06() {
     return (
         <div className="bg-stone-100">
-            <div className="mx-auto max-w-screen-xl p-6 xl:p-16">
+            <div className="mx-auto max-w-screen-xl p-6 pb-12 xl:p-16 md:pb-24">
                 <div className="text-3xl md:text-5xl font-extrabold text-center py-8">
                     Pertanyaan Umum
                 </div>
@@ -21,6 +21,7 @@ export function Section06() {
                                 ✅ Rp300.000 <br />
                                 ✅ Rp500.000 <br />
                                 ✅ Rp1.000.000 <br />
+                                ✅ Rp1.500.000 <br />
                                 Setiap kontribusi sahabat sangat berarti dan akan digabungkan dengan mukhsinin lain untuk membiayai kebutuhan santri.
                             </>}
                         />

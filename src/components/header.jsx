@@ -34,9 +34,9 @@ export function Header() {
                 </div>
                 <div className="py-2 px-8 bg-stone-600 rounded-b-xl hidden md:block">
                     <div className="flex gap-10 justify-center h-8">
-                        <Tautan Text="Beranda" Url="/" />
-                        <Tautan Text="Masjid Al-Fath" Url="https://masjidalfath.org/" />
-                        <Tautan Text="BisaHafalQuran" Url="https://bisahafalquran.com/" />
+                        <Tautan Text="Beranda" Url="https://mahadtahfidzalfath.com/" />
+                        <Tautan Text="Wali Santri" Url="https://walisantri.mahadtahfidzalfath.com/" />
+                        <Tautan Text="Busyro" Url="https://busyro.mahadtahfidzalfath.com/" />
                     </div>
                 </div>
             </div>

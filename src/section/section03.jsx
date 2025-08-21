@@ -1,4 +1,3 @@
-import { ChecklistIcon } from "../components/checlistIcon"
 import React, { forwardRef } from "react";
 import { CardIcon } from "../components/cardIcon"
 
